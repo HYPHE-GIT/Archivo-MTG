@@ -5,15 +5,16 @@
 
 Archivo is a grotesque font reminiscent of late nineteenth century. It was designed to be used simultaneously in print and online platforms and supports over 200 world languages.
 
-##### MIND THE GAP
-A typographic approach to solving the gender issue.The word »student« in  
-the German language is never genderless. It differentiates between the male form »der Student« and the female form »die Studentin«. Since gender issues
-get more and more important, gender neutral forms like »StudentIn«, »Student*in«,
-»Student_in«, »Student:in« and »Student.in« have evolved.
-This is a fork with an experimental ligature for German. The goal is to simplify the posibility of gender forms.
 
-![Sample of Archivo Family.](./examples/export/examples.png "MIND THE GAP")
-![Sample of Archivo Family.](./examples/export/examples1.png "MIND THE GAP")
+##### MIND THE GAP - EXTENSION
+A typographic approach to solving the gender issue.The word »student« in  the German language is never genderless. It differentiates between the male form »der Student« and the female form »die Studentin«. Since gender issues get more and more important, gender neutral forms like »StudentIn«, »Student*in«,»Student_in«, »Student:in« and »Student.in« have evolved. This is a fork with an experimental ligature for German. The goal is to simplify the posibility of gender forms.
+
+
+![Sample of the gender ligature](./examples/export/exapmles.png "MIND THE GAP")
+
+![Sample of the ligatures.](./examples/export/animation_mtg.gif "MIND THE GAP")
+
+![Sample of the ligatures.](./examples/export/exapmles2.png "MIND THE GAP")
 
 ![Sample of Archivo Family.](./Archivo-1.png "Archivo")
 ![Sample of Archivo Family.](./Archivo-2.png "Archivo")
