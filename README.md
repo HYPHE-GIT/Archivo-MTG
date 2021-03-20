@@ -5,6 +5,16 @@
 
 Archivo is a grotesque font reminiscent of late nineteenth century. It was designed to be used simultaneously in print and online platforms and supports over 200 world languages.
 
+##### MIND THE GAP
+A typographic approach to solving the gender issue.The word »student« in  
+the German language is never genderless. It differentiates between the male form »der Student« and the female form »die Studentin«. Since gender issues
+get more and more important, gender neutral forms like »StudentIn«, »Student*in«,
+»Student_in«, »Student:in« and »Student.in« have evolved.
+This is a fork with an experimental ligature for German. The goal is to simplify the posibility of gender forms.
+
+![Sample of Archivo Family.](./examples/export/examples.png "MIND THE GAP")
+![Sample of Archivo Family.](./examples/export/examples1.png "MIND THE GAP")
+
 ![Sample of Archivo Family.](./Archivo-1.png "Archivo")
 ![Sample of Archivo Family.](./Archivo-2.png "Archivo")
 ![Sample of Archivo Family.](./Archivo-3.png "Archivo")
@@ -92,7 +102,7 @@ Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); y
 This file provides detailed information on the Archivo font software.  
 This information should be distributed along with the Archivo fonts and any derivative works.
 
-### Archivo is a typeface family that supports the following Unicode language range: 
+### Archivo is a typeface family that supports the following Unicode language range:
 
 * Basic Latin 				U+0020-U+007E
 * Latin-1 Supplement 		U+00A0-U+00FF
@@ -141,6 +151,6 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **D:** Designer
 
 **N:** **Yorlmar Campos**  
-**E:** omnibus.type@gmail.com 
+**E:** omnibus.type@gmail.com
 **W:** http://www.omnibus-type.com  
-**D:** Typeface development 
+**D:** Typeface development
