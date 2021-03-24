@@ -155,3 +155,8 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **E:** omnibus.type@gmail.com
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development
+
+**N:** **Franz Mühringer**  
+**E:** franz@hyphe.at
+**W:** https://hyphe.at
+**D:** MIND THE GAP ligature
